@@ -1,3 +1,15 @@
 body {
 background-color: #A9DDD6; 
+  
+  h3 {
+color: #553E4E;
+  font-size: 200%;
+  background-color: #A69BBF;
+  letter-spacing: 4px;
+} 
+  img {
+    width: 35%
+  }
+  
+  
 }
