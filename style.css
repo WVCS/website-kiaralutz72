@@ -1,15 +1,39 @@
 body {
-background-color: #A9DDD6; 
-  
-  h3 {
-color: #553E4E;
-  font-size: 200%;
-  background-color: #A69BBF;
+  background-color: #B0D4B6;
+}
+
+h3 {
+color: #77966D;
+  font-size: 350%;
+  background-color: #F7E2CA;
   letter-spacing: 4px;
 } 
   img {
-    width: 35%
-  }
-  
+    width: 40%
+  } 
+
+ul { 
+  list-style-type: none;
+  background-color: #77966D;
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  text-align: center;
+  left: 0;
+  top: 0;
+  margin: 0;
+}
+li { 
+float: left;
+}
+li a {
+  display: block;
+  color: antiquewhite;
+  text-decoration: none;
+  padding: 15px 50px;
+}
+li a:hover {
+  background-color: antiquewhite;
+  color: black; 
   
 }
